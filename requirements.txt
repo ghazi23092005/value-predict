@@ -6,3 +6,4 @@ requests
 xgboost
 plotly
 scikit-learn
+numpy
